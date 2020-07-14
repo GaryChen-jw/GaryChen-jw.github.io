@@ -1,15 +1,8 @@
-You can use the [editor on GitHub](https://github.com/GaryChen-jw/Diary-Daily/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Welcom To Gary's Blog.
-##  Share things,have fun.
-### Click to follow me!
+# 欢迎来到GaryChen的主页
+##  我会在此发布一些个人旅游日记/新鲜事以及知识干货文章。
+##  欢迎关注！
+### 如果你也是新手？我会记录自己Github从零起步的经历关注我，收藏网址，信息不会丢[editor on GitHub](https://github.com/GaryChen-jw/Diary-Daily/edit/master/index.md) 欢迎关注我的每一个足迹！
+syntax highlighted code block
 
 - Bulleted
 - List
