@@ -10,7 +10,7 @@
 
 # 最新旅途：青甘7日大环游（2020.7.26 启程）
 
-# 关于我的旅途(file:///C:/Users/Administrator/Desktop/About%20My%20Fantastic%20Trip.html)
+# 关于我的旅途
 
 ## 旅途大概：青海-甘肃环线七日游
 ## 旅途日期：7.26启程 8.2早归
